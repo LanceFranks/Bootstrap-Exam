@@ -1,0 +1,16 @@
+ 
+
+html,
+
+body {
+    height: 100% ;
+    font-size: 1rem;
+
+
+}
+
+.gradient {
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(53,98,4,1) 23%, rgba(0,212,255,1) 100%);
+}
+    
