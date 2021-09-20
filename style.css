@@ -16,3 +16,42 @@ body {
     font-size: 1.25rem;
     color: black;
 }
+
+.feature {
+    color:black;
+
+}
+
+.page-header img {
+    border-width: 5;
+    border-style: double;
+}
+
+.feature img{
+    border-width: 5;
+    border-style: double;
+}
+
+.feature ul {
+    padding-left: 2rem;
+    list-style-type: none;
+}
+
+.feature ul li {
+    padding-left: 2rem;
+    background-image: url(img/genghislogo.jfif);
+    background-repeat: no-repeat;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.icon {
+    color:white;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+    border-radius: 100%;
+    display: incline-flex;
+    align-items: center;
+    justify-content: center;
+}
